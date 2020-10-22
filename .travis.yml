@@ -1,3 +1,6 @@
+arch:
+  - amd64
+  - ppc64le
 # This is the complex Travis configuration, which is intended for use
 # on open source libraries which need compatibility across multiple GHC
 # versions, must work with cabal-install, and should be
